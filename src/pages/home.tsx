@@ -1,12 +1,14 @@
 import { useEffect, useRef, useState } from "react";
 import GiveawayCard from "../components/giveawayCard";
 import type { GiveawayCardProps } from "../types";
+import { useGiveawayStore } from "../assets/store/useGiveawayStore";
 
 const Home = () => {
   const [giveaways, setGiveaways] = useState<GiveawayCardProps[]>([]);
   const [visibleCount, setVisibleCount] = useState(10);
   const [loading, setLoading] = useState(true);
   const visibleGiveaways = giveaways.slice(0, visibleCount);
+  const reserved = useGiveawayStore((s) => s.reserved);
 
   useEffect(() => {
     const fetchData = () => {
@@ -42,7 +44,6 @@ const Home = () => {
 
     if (lastItemRef.current) {
       observer.observe(lastItemRef.current);
-      console.log("Observer is set up for last item", lastItemRef);
     }
 
     return () => {
@@ -77,6 +78,7 @@ const Home = () => {
                   organizer={giveaway.organizer}
                   image={giveaway.image}
                   id={giveaway.id}
+                  reserved={reserved.some((g) => g.id === giveaway.id)}
                 />
               </div>
             );
