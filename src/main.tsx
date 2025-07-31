@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./pages/home";
 import Login from "./pages/login";
 import Header from "./components/header";
+import Footer from "./components/footer";
 // import { useStore } from "./store/useStore";
 
 // eslint-disable-next-line react-refresh/only-export-components
@@ -25,6 +26,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
             <ProtectedRoute>
               <Header />
               <Home />
+              <Footer />
             </ProtectedRoute>
           }
         />
