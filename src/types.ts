@@ -10,4 +10,6 @@ export interface GiveawayCardProps {
     organizer: string;
     image: string; 
     id: string; 
+    reserved?: boolean; 
+    claimed?: boolean;
 }
