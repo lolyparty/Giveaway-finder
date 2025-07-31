@@ -39,10 +39,7 @@ const GiveawayCard = ({
   }
 
   return (
-    <div
-      id={id}
-      className="bg-white py-4 px-8 rounded-lg shadow-md inset-shadow-2xs w-9/12"
-    >
+    <div id={id}>
       <div className="flex items-center">
         <div className="rounded-full mr-4 flex items-center justify-center">
           <img
