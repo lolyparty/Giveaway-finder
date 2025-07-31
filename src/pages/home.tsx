@@ -15,7 +15,7 @@ const Home = () => {
       setLoading(true);
       setTimeout(async () => {
         try {
-          const res = await fetch("/src/data/giveaways.json");
+          const res = await fetch("/giveaways.json");
           const data = await res.json();
           setGiveaways(data.content);
           // setVisibleGiveaways(data.content.slice(0, 10));
