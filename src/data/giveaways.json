@@ -1,0 +1,246 @@
+{
+    "path": "src/data/giveaways.json",
+    "type": "json",
+    "content": [
+        {
+            "id": 1,
+            "title": "Free Trip to Hawaii",
+            "description": "Win a free trip to Hawaii! Enjoy the sun, sand, and sea.",
+            "endDate": "2025-12-01T00:00:00Z",
+            "organizer": "SafeTravels",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 2,
+            "title": "Luxury Car Giveaway",
+            "description": "Enter to win a luxury car! Experience the thrill of driving in style.",
+            "endDate": "2025-12-15T00:00:00Z",
+            "organizer": "AutoLux",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 3,
+            "title": "Tech Gadget Bonanza",
+            "description": "Get the latest tech gadgets for free! Perfect for tech enthusiasts.",
+            "endDate": "2025-12-20T00:00:00Z",
+            "organizer": "GadgetWorld",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 4,
+            "title": "Home Makeover Contest",
+            "description": "Transform your home with a complete makeover! Enter now.",
+            "endDate": "2025-12-25T00:00:00Z",
+            "organizer": "HomeStyle",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 5,
+            "title": "Fitness Package Giveaway",
+            "description": "Win a complete fitness package including gym membership and equipment.",
+            "endDate": "2025-12-30T00:00:00Z",
+            "organizer": "FitLife",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 6,
+            "title": "Gourmet Food Basket",
+            "description": "Indulge in a gourmet food basket filled with delicious treats.",
+            "endDate": "2025-01-05T00:00:00Z",
+            "organizer": "GourmetDelights",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 7,
+            "title": "Travel Voucher Giveaway",
+            "description": "Win a travel voucher worth $1000 for your next vacation.",
+            "endDate": "2025-01-10T00:00:00Z",
+            "organizer": "TravelExperts",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 8,
+            "title": "Fashion Accessories Bundle",
+            "description": "Get a bundle of trendy fashion accessories for free.",
+            "endDate": "2025-01-15T00:00:00Z",
+            "organizer": "Fashionista",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 9,
+            "title": "Gaming Console Giveaway",
+            "description": "Enter to win the latest gaming console and games.",
+            "endDate": "2025-01-20T00:00:00Z",
+            "organizer": "GameZone",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 10,
+            "title": "Book Lover's Package",
+            "description": "Win a package of bestselling books and reading accessories.",
+            "endDate": "2025-01-25T00:00:00Z",
+            "organizer": "BookNook",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 11,
+            "title": "Photography Equipment Giveaway",
+            "description": "Upgrade your photography gear with this amazing giveaway.",
+            "endDate": "2025-01-30T00:00:00Z",
+            "organizer": "PhotoPro",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 12,
+            "title": "Pet Care Package",
+            "description": "Pamper your pet with a care package full of goodies.",
+            "endDate": "2025-02-05T00:00:00Z",
+            "organizer": "PetLovers",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 13,
+            "title": "Music Festival Tickets",
+            "description": "Win tickets to the hottest music festival of the year.",
+            "endDate": "2025-02-10T00:00:00Z",
+            "organizer": "MusicVibes",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 14,
+            "title": "Spa Day Experience",
+            "description": "Relax and rejuvenate with a free spa day experience.",
+            "endDate": "2025-02-15T00:00:00Z",
+            "organizer": "RelaxationStation",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 15,
+            "title": "Outdoor Adventure Package",
+            "description": "Explore the great outdoors with this adventure package.",
+            "endDate": "2025-02-20T00:00:00Z",
+            "organizer": "AdventureSeekers",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 16,
+            "title": "Cooking Class Giveaway",
+            "description": "Learn to cook like a pro with a free cooking class.",
+            "endDate": "2025-02-25T00:00:00Z",
+            "organizer": "CulinaryArts",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 17,
+            "title": "Home Office Makeover",
+            "description": "Upgrade your home office with this makeover giveaway.",
+            "endDate": "2025-03-01T00:00:00Z",
+            "organizer": "OfficeStyle",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 18,
+            "title": "Fitness Tracker Giveaway",
+            "description": "Stay fit and healthy with a free fitness tracker.",
+            "endDate": "2025-03-05T00:00:00Z",
+            "organizer": "HealthTech",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 19,
+            "title": "Art Supplies Bundle",
+            "description": "Unleash your creativity with a bundle of art supplies.",
+            "endDate": "2025-03-10T00:00:00Z",
+            "organizer": "CreativeCorner",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 20,
+            "title": "Virtual Reality Headset Giveaway",
+            "description": "Experience the future of gaming with a VR headset.",
+            "endDate": "2025-03-15T00:00:00Z",
+            "organizer": "VRWorld",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 21,
+            "title": "Gardening Kit Giveaway",
+            "description": "Grow your own garden with this complete gardening kit.",
+            "endDate": "2025-03-20T00:00:00Z",
+            "organizer": "GreenThumbs",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 22,
+            "title": "Language Learning Course",
+            "description": "Learn a new language with a free online course.",
+            "endDate": "2025-03-25T00:00:00Z",
+            "organizer": "LanguageMasters",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 23,
+            "title": "Subscription Box Giveaway",
+            "description": "Get a free subscription box delivered to your door.",
+            "endDate": "2025-03-30T00:00:00Z",
+            "organizer": "BoxOfJoy",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 24,
+            "title": "Photography Workshop",
+            "description": "Enhance your photography skills with a free workshop.",
+            "endDate": "2025-04-05T00:00:00Z",
+            "organizer": "PhotoMasters",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 25,
+            "title": "Cooking Equipment Giveaway",
+            "description": "Win the latest cooking equipment for your kitchen.",
+            "endDate": "2025-04-10T00:00:00Z",
+            "organizer": "KitchenGadgets",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 26,
+            "title": "Fashion Design Course",
+            "description": "Learn fashion design with a free online course.",
+            "endDate": "2025-04-15T00:00:00Z",
+            "organizer": "FashionAcademy",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 27,
+            "title": "Home Security System Giveaway",
+            "description": "Secure your home with a free security system.",
+            "endDate": "2025-04-20T00:00:00Z",
+            "organizer": "SafeHome",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 28,
+            "title": "Digital Marketing Course",
+            "description": "Master digital marketing with a free online course.",
+            "endDate": "2025-04-25T00:00:00Z",
+            "organizer": "MarketingMasters",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 29,
+            "title": "Outdoor Gear Giveaway",
+            "description": "Get the best outdoor gear for your adventures.",
+            "endDate": "2025-04-30T00:00:00Z",
+            "organizer": "OutdoorEssentials",
+            "image": "https://picsum.photos/seed"
+        },
+        {
+            "id": 30,
+            "title": "Music Instrument Giveaway",
+            "description": "Win a musical instrument of your choice.",
+            "endDate": "2025-05-05T00:00:00Z",
+            "organizer": "MusicStore",
+            "image": "https://picsum.photos/seed"
+        }
+    ]
+}
