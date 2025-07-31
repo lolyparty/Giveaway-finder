@@ -134,7 +134,7 @@
             "id": 17,
             "title": "Home Office Makeover",
             "description": "Upgrade your home office with this makeover giveaway.",
-            "endDate": "2025-03-01T00:00:00Z",
+            "endDate": "2025-10-01T00:00:00Z",
             "organizer": "OfficeStyle",
             "image": "https://picsum.photos/seed"
         },
@@ -142,7 +142,7 @@
             "id": 18,
             "title": "Fitness Tracker Giveaway",
             "description": "Stay fit and healthy with a free fitness tracker.",
-            "endDate": "2025-03-05T00:00:00Z",
+            "endDate": "2025-10-05T00:00:00Z",
             "organizer": "HealthTech",
             "image": "https://picsum.photos/seed"
         },
@@ -150,7 +150,7 @@
             "id": 19,
             "title": "Art Supplies Bundle",
             "description": "Unleash your creativity with a bundle of art supplies.",
-            "endDate": "2025-03-10T00:00:00Z",
+            "endDate": "2025-10-10T00:00:00Z",
             "organizer": "CreativeCorner",
             "image": "https://picsum.photos/seed"
         },
@@ -158,7 +158,7 @@
             "id": 20,
             "title": "Virtual Reality Headset Giveaway",
             "description": "Experience the future of gaming with a VR headset.",
-            "endDate": "2025-03-15T00:00:00Z",
+            "endDate": "2025-10-15T00:00:00Z",
             "organizer": "VRWorld",
             "image": "https://picsum.photos/seed"
         },
@@ -166,7 +166,7 @@
             "id": 21,
             "title": "Gardening Kit Giveaway",
             "description": "Grow your own garden with this complete gardening kit.",
-            "endDate": "2025-03-20T00:00:00Z",
+            "endDate": "2025-10-20T00:00:00Z",
             "organizer": "GreenThumbs",
             "image": "https://picsum.photos/seed"
         },
@@ -174,7 +174,7 @@
             "id": 22,
             "title": "Language Learning Course",
             "description": "Learn a new language with a free online course.",
-            "endDate": "2025-03-25T00:00:00Z",
+            "endDate": "2025-10-25T00:00:00Z",
             "organizer": "LanguageMasters",
             "image": "https://picsum.photos/seed"
         },
@@ -182,7 +182,7 @@
             "id": 23,
             "title": "Subscription Box Giveaway",
             "description": "Get a free subscription box delivered to your door.",
-            "endDate": "2025-03-30T00:00:00Z",
+            "endDate": "2025-10-30T00:00:00Z",
             "organizer": "BoxOfJoy",
             "image": "https://picsum.photos/seed"
         },
